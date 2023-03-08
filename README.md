@@ -1,2 +1,3 @@
 # RandomDashTrials
-just testing out if dash app is able to be deployed
+just testing out if given dash app can be deployed
+
